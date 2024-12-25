@@ -56,7 +56,7 @@ The **Hospital Emergency Room Dashboard** is a comprehensive solution for:
   - **Implication**: Higher referral rates in General Practice and Orthopedics indicate resource demands in these departments.
 
 ### 3️⃣ Peak Busy Periods
-- **Busiest Days**: Monday (1,377 patients), Saturday (1,322 patients), Tuesday (1,318 patients) .  
+- **Busiest Days**: Saturday (1,377 patients), Thursday (1,322 patients), Sunday (1,318 patients) .  
 - **Busiest Hours**: 11 AM, 1 PM, 7 PM, 11 PM.
 - **Implication**: Staffing adjustments are critical during peak days and hours to manage patient volume effectively.
 
