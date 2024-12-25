@@ -1,5 +1,10 @@
 # 🏥 Hospital Emergency Room Dashboard
 
+[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue)](https://powerbi.microsoft.com/) 
+[![Status](https://img.shields.io/badge/Status-Completed-success)](#) 
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+---
+
 This repository contains the **Hospital Emergency Room Dashboard**, designed to analyze and optimize emergency room operations. It leverages insights from patient demographics, admission patterns, satisfaction levels, and operational metrics to enhance patient care and resource allocation.
 
 ---
@@ -99,7 +104,25 @@ This project complies with **HIPAA** and **GDPR** regulations. Sensitive fields 
 5. Dashboard Development & Insights Generation
 
 ---
+## How to Access  
 
+1. Download the Powerbi from this repository.  
+2. Open the `.pbix` file in Powerbi Desktop.  
+3. Explore interactive visualizations and uncover insights.  
+
+---
+
+## License 📝  
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.  
+
+---
+
+## Contact  
+
+For inquiries or collaboration, please feel free to reach out:  
+- **Email**: adnan.bava123@gmail.com   
+---
 
 
 
