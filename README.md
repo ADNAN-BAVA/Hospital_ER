@@ -44,17 +44,21 @@ The **Hospital Emergency Room Dashboard** is a comprehensive solution for:
 ## 🔑 Key Insights
 
 ### 1️⃣ Patient Wait Time & Satisfaction
-- **Average Wait Time**: 35.3 minutes.  
+- **Average Wait Time**: 35.3 minutes.
+- Indicates a potential bottleneck in patient flow, necessitating strategies to enhance operational efficiency. 
 - **Satisfaction Score**: 4.99 out of 10.
+- Reflects moderate satisfaction, highlighting areas for improvement in patient experience.
 
 ### 2️⃣ Departmental Referrals
 - **Most Common Referrals**:
   - General Practice (1,840 cases)
   - Orthopedics (995 cases)
+  - **Implication**: Higher referral rates in General Practice and Orthopedics indicate resource demands in these departments.
 
 ### 3️⃣ Peak Busy Periods
-- **Busiest Days**: Monday (1,377 patients).  
+- **Busiest Days**: Monday (1,377 patients), Saturday (1,322 patients), Tuesday (1,318 patients) .  
 - **Busiest Hours**: 11 AM, 1 PM, 7 PM, 11 PM.
+- **Implication**: Staffing adjustments are critical during peak days and hours to manage patient volume effectively.
 
 ### 4️⃣ Patient Demographics
 - **Age Groups**: Adults (30–39 years, 1,200 patients).  
@@ -63,6 +67,7 @@ The **Hospital Emergency Room Dashboard** is a comprehensive solution for:
 ### 5️⃣ Admission Patterns
 - **Admitted Patients**: 50% (4,612 patients).  
 - **Treated and Released**: 50% (4,604 patients).
+- **Implication**: Balanced admission patterns suggest optimized use of inpatient facilities.
 
 ---
 
